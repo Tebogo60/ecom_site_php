@@ -1,0 +1,1 @@
+CREATE DATABASE ecom_site_php_db;
